@@ -58,7 +58,7 @@
 AI-powered IT Incident Management platform — classifies incoming incidents by severity & category (XGBoost), retrieves likely root causes through a FAISS-based RAG pipeline, and uses Groq/Llama for reasoning, all served through a FastAPI backend with JWT auth and a full multi-page frontend.
 `Python` `FastAPI` `Groq/Llama` `FAISS` `XGBoost` `SQLAlchemy`
 
-**[⚙️ PLC Code Generator — IEC 61131-3](https://github.com/karthick-sanjay/ai-based-plc-code-narration-tool)**
+**[⚙️ PLC Code Generator — IEC 61131-3](https://github.com/karthick-sanjay/ai-based-plc-narration-tool)**
 Converts plain-English instructions into PLC programs across multiple IEC 61131-3 languages using the Groq AI API, built for industrial automation use cases, with simulation-based logic verification planned next.
 `JavaScript` `Groq AI API`
 
