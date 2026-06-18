@@ -87,7 +87,9 @@ A Python tool that reviews resumes and surfaces feedback to help job-seekers imp
   
 </p>
 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=karthick-sanjay&theme=tokyonight&hide_border=true" />
+</p>
 
 ### 📜 Certifications & Courses
 
