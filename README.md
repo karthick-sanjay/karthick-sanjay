@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Karthick Sanjay M S 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=650&lines=Pre-Final+Year+ECE+Student;Full-Stack+%26+AI+App+Developer;Turning+Plain+English+into+Working+Code;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=650&lines=Final+Year+ECE+Student;Full-Stack+%26+AI+App+Developer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,22 +14,12 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Pre-final year **B.E. Electronics & Communication Engineering** student at **KIT – Kalaignar Karunanidhi Institute of Technology**, Coimbatore (2023 – 2027) — CGPA **8.05 / 10**
+- 🎓 Final year **B.E. Electronics & Communication Engineering** student at **KIT – Kalaignar Karunanidhi Institute of Technology**, Coimbatore (2023 – 2027) — CGPA **8.05 / 10**
 - 💻 Full-stack developer comfortable across **front-end (HTML, CSS, JavaScript)**, **back-end (Java, Python)**, and **databases (SQL)**
 - 🤖 Genuinely curious about wiring **AI/LLMs into real engineering problems** — from generating PLC code to triaging IT incidents
 - 🧩 Solid fundamentals in **Data Structures, Algorithms & OOP**
 - 🌱 Fast learner with a problem-solving mindset, always looking to contribute to innovative tech teams
 
-### 🔭 Currently Working On
-
-```
--> Building "Incident Management AI" — an AI-powered IT Incident Management platform
-   (FastAPI backend, Groq/Llama for reasoning, FAISS for similarity search, XGBoost for classification)
-
--> Strengthening DSA & OOPS for technical interviews
-
--> Exploring more ways to wire LLMs into everyday developer tools
-```
 
 ### 🛠️ Tech Stack
 
@@ -68,7 +58,7 @@
 AI-powered IT Incident Management platform — classifies incoming incidents by severity & category (XGBoost), retrieves likely root causes through a FAISS-based RAG pipeline, and uses Groq/Llama for reasoning, all served through a FastAPI backend with JWT auth and a full multi-page frontend.
 `Python` `FastAPI` `Groq/Llama` `FAISS` `XGBoost` `SQLAlchemy`
 
-**[⚙️ PLC Code Generator — IEC 61131-3](https://github.com/karthick-sanjay/thor-plc-code-generator)**
+**[⚙️ PLC Code Generator — IEC 61131-3](https://github.com/karthick-sanjay/ai-based-plc-code-narration-tool)**
 Converts plain-English instructions into PLC programs across multiple IEC 61131-3 languages using the Groq AI API, built for industrial automation use cases, with simulation-based logic verification planned next.
 `JavaScript` `Groq AI API`
 
@@ -94,12 +84,10 @@ A Python tool that reviews resumes and surfaces feedback to help job-seekers imp
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=karthick-sanjay&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthick-sanjay&layout=compact&theme=tokyonight&hide_border=true" />
+  
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=karthick-sanjay&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ### 📜 Certifications & Courses
 
