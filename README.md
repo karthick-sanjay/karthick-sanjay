@@ -85,10 +85,7 @@ A Python tool that reviews resumes and surfaces feedback to help job-seekers imp
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=karthick-sanjay&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthick-sanjay&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=karthick-sanjay&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=karthick-sanjay&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true" />
 </p>
 
 ### 📜 Certifications & Courses
